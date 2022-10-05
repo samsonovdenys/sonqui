@@ -35,7 +35,7 @@ const GOOGLE_MAPS_API_KEY = 'AIzaSyAV8XG6TCh2BdEj6sg2WuXkuwxvGRMp_Nc'
         users: [
           {id:1, nick: 'Programist', status: 'want_go_out', active: false},
           {id:2, nick: 'Comercialist', status: 'im_out', active: false},
-          {id:3, nick: 'Frontender', status: 'stay_home', active: false}
+          {id:3, nick: 'Front-ender', status: 'stay_home', active: false}
         ]
       }
     },
