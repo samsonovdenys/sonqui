@@ -1,5 +1,6 @@
 <template>
   <div>
+      <h2>Your coordinates:</h2>
       Latitude: {{currPos.lat.toFixed(7)}}, Longitude: {{currPos.lng.toFixed(7)}}
       <h1>My friends</h1>
       <AddUser 
